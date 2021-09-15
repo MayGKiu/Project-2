@@ -103,13 +103,13 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 
 ||Sat, 30 Oct 21|Tue, 2 Nov 21|Wed, 3 Nov 21|Thu, 4 Nov 21|
 |---|:---:|:---:|:---:|:---:|
-|Morning|||||
-||||||
-|Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
+|Morning||||Holiday|
+|||||Holiday|
+|Lunch|Lunch!|||Holiday|
+|Afternoon||||Holiday|
+|||||Holiday|
+|Evening||||Holiday|
+|||||Holiday|
 
 #### Week 7
 
@@ -187,38 +187,37 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 
 ||Sat, 18 Dec 21|Tue, 21 Dec 21|Wed, 22 Dec 21|Thu, 23 Dec 21|
 |---|:---:|:---:|:---:|:---:|
-|Morning|||||
-||||||
-|Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
+|Morning||Holiday|Holiday|Holiday|
+|||Holiday|Holiday|Holiday|
+|Lunch|Lunch!|Holiday|Holiday|Holiday|
+|Afternoon||Holiday|Holiday|Holiday|
+|||Holiday|Holiday|Holiday|
+|Evening||Holiday|Holiday|Holiday|
+|||Holiday|Holiday|Holiday|
 
-#### Week 14
+#### Week 14 - Holiday
 
 ||Sat, 25 Dec 21|Tue, 28 Dec 21|Wed, 29 Dec 21|Thu, 30 Dec 21|
 |---|:---:|:---:|:---:|:---:|
-|Morning|||||
-||||||
-|Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
-|||Outcomes|Flextime|
+|Morning|Holiday|Holiday|Holiday|Holiday|
+||Holiday|Holiday|Holiday|Holiday|
+|Lunch|Holiday|Holiday|Holiday|Holiday|
+|Afternoon|Holiday|Holiday|Holiday|Holiday|
+||Holiday|Holiday|Holiday|Holiday|
+|Evening|Holiday|Holiday|Holiday|Holiday|
+||Holiday|Holiday|Holiday|Holiday|
 
 #### Week 15
 
 ||Sat, 1 Jan 22|Tue, 4 Jan 22|Wed, 5 Jan 22|Thu, 6 Jan 22|
 |---|:---:|:---:|:---:|:---:|
-|Morning|||||
-||||||
-|Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
+|Morning|Holiday||||
+||Holiday||||
+|Lunch|Holiday|||
+|Afternoon|Holiday||||
+||Holiday||||
+|Evening|Holiday||||
+||Holiday||||
 
 #### Week 16
 
@@ -260,13 +259,13 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 
 ||Sat, 29 Jan 22|Tue, 1 Feb 22|Wed, 2 Feb 22|Thu, 3 Feb 22|
 |---|:---:|:---:|:---:|:---:|
-|Morning|||||
-||||||
-|Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
+|Morning||Holiday|Holiday||
+|||Holiday|Holiday||
+|Lunch|Lunch!|Holiday|Holiday|
+|Afternoon||Holiday|Holiday||
+|||Holiday|Holiday||
+|Evening||Holiday|Holiday||
+|||Holiday|Holiday||
 
 #### Week 20
 
@@ -327,7 +326,6 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 ||||||
 |Evening|||||
 ||||||
-|||Flextime|Flextime|
 
 #### Week 25
 
@@ -340,7 +338,6 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 ||||||
 |Evening|||||
 ||||||
-|||Flextime|Flextime|
 
 #### Week 26
 
