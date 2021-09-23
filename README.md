@@ -9,13 +9,13 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 * Email: shilpa.sindhe@generalassemb.ly</br>
 * Slack: https://ga-students.slack.com/messages/@U02ECUQRD0V </br>
 
+### Instructional Assistant: Mark T
+* Email: 
+* Slack: https://ga-students.slack.com/messages/@U01P36JPJT0 </br>
+
 ### Instructional Assistant: Peter Mah
 * Email: 
-* Slack: 
-
-### Instructional Assistant: 
-* Email: 
-* Slack: 
+* Slack: https://ga-students.slack.com/messages/@U01HXN542P5 </br>
 
 ### Head of Learning, APAC: Melanie Wu
 * Email: melanie.wu@generalassemb.ly</br>
@@ -25,9 +25,9 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 * Email: aurelia.tan@generalassemb.ly</br>
 * Slack: https://ga-students.slack.com/messages/@UDXRRRU0Z </br>
 
-### Career Coach: 
-* Email: 
-* Slack: 
+### Career Coach: Tania Mancilla
+* Email: tania.mancilla@generalassemb.ly</br>
+* Slack: https://ga-students.slack.com/messages/@U01Q9CWL7EE </br>
 
 ### Student Experience Specialist: Kerin Ong
 * Email: kerin.ong@generalassemb.ly</br>
