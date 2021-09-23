@@ -9,7 +9,7 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 * Email: shilpa.sindhe@generalassemb.ly</br>
 * Slack: https://ga-students.slack.com/messages/@U02ECUQRD0V </br>
 
-### Instructional Assistant: Mark T
+### Instructional Assistant: Mark Tan
 * Email: 
 * Slack: https://ga-students.slack.com/messages/@U01P36JPJT0 </br>
 
