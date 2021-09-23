@@ -79,8 +79,8 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 
 ||Sat, 16 Oct 21|Tue, 19 Oct 21|Thu, 21 Oct 21|
 |---|:---:|:---:|:---:|
-|Morning|Outcomes|||
-||[1.09 Inference - Confidence Interval](./1.09-lesson-statistical_inference_confidence_intervals)|||
+|Morning|[1.09 Inference - Confidence Interval](./1.09-lesson-statistical_inference_confidence_intervals)|||
+||Flextime|||
 |Lunch|Lunch!|||
 |Afternoon|[1.10 Inference/Hypothesis Testing](./1.10-lesson-hypothesis_testing)|||
 ||Lab/Project Time|||
@@ -92,9 +92,9 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 ||Sat, 23 Oct 21|Tue, 26 Oct 21|Thu, 28 Oct 21|
 |---|:---:|:---:|:---:|
 |Morning|[3.01 Linear Regression](./3.01-lesson-linear_regression)|||
-||Flextime|||
+||[3.02 Regression Evaluation Metrics](./3.02-regression-metrics-lesson)|||
 |Lunch|Lunch!|||
-|Afternoon|[3.02 Regression Evaluation Metrics](./3.02-regression-metrics-lesson)|||
+|Afternoon|Outcomes|||
 ||[3_01 Linear Regression Lab](./3_01-lab-regression-and-model-validation)|||
 |Evening||[3.03 Train/Test Split + Cross Validation](./3.03-lesson-cross-validation-train-test-split)|[3_01 Linear Regression Lab](./3_01-lab-regression-and-model-validation)|
 |||Flextime|Flextime|
