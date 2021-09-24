@@ -39,7 +39,7 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 
 ---
 
-#### Week 1
+#### Week 1 - Getting Started: Python for Data Science
 
 ||Sat, 25 Sep 21|Tue, 28 Sep 21|Thu, 30 Sep 21|
 |---|:---:|:---:|:---:|
@@ -51,7 +51,7 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |Evening||[1.03 Functions](./1.03-lesson-python-functions)|[1.04 Loops & List Comprehension](./1.04-lesson-list-comprehension)|
 |||[1_01 Pokemon Lab](./1_01-lab-pokemon)|[1_01 Pokemon Lab](./1_01-lab-pokemon)|
 
-#### Week 2
+#### Week 2 - Getting Started: Python for Data Science
 
 ||Sat, 2 Oct 21|Tue, 5 Oct 21|Thu, 7 Oct 21|
 |---|:---:|:---:|:---:|
@@ -63,7 +63,7 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |Evening||[1.05 Probability](1.05-lesson-intro_to_probability)|[1.06 Discrete Distributions](1.06-lesson-discrete-distributions)|
 |||[1_02 Distributions Lab](1_02-lab-distributions)|[1_02 Distributions Lab](1_02-lab-distributions)|
 
-#### Week 3
+#### Week 3 - Exploratory Data Analysis
 
 ||Sat, 9 Oct 21|Tue, 12 Oct 21|Thu, 14 Oct 21|
 |---|:---:|:---:|:---:|
@@ -75,7 +75,7 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |Evening||[1.07 Continuous Distributions](1.07-lesson-continuous-distributions)|[1.08 Central Limit Theorem](1.08-lesson-central-limit-theorem)|
 |||Lab/Project Time|**[Project 1 Introduction](./project_1)**|
 
-#### Week 4
+#### Week 4 - Exploratory Data Analysis
 
 ||Sat, 16 Oct 21|Tue, 19 Oct 21|Thu, 21 Oct 21|
 |---|:---:|:---:|:---:|
@@ -87,7 +87,7 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |Evening||[1.09 Inference - Confidence Interval](./1.09-lesson-statistical_inference_confidence_intervals)|[1.10 Inference/Hypothesis Testing](./1.10-lesson-hypothesis_testing)|
 |||Flextime|Flextime|
 
-#### Week 5
+#### Week 5 - Regression
 
 ||Sat, 23 Oct 21|Tue, 26 Oct 21|Thu, 28 Oct 21|
 |---|:---:|:---:|:---:|
@@ -99,7 +99,7 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |Evening||[3.03 Train/Test Split + Cross Validation](./3.03-lesson-cross-validation-train-test-split)|[3_01 Linear Regression Lab](./3_01-lab-regression-and-model-validation)|
 |||Flextime|Flextime|
 
-#### Week 6
+#### Week 6 - Regression
 
 ||Sat, 30 Oct 21|Tue, 2 Nov 21|Thu, 4 Nov 21|
 |---|:---:|:---:|:---:|
@@ -112,87 +112,88 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |||[3_02 Regularization and Validation Lab](./3_02-lab-cross_validation_regularization-regression)|Holiday|
 
 
-#### Week 7
+#### Week 7 - Regression and Classification
 
 ||Sat, 6 Nov 21|Tue, 9 Nov 21|Thu, 11 Nov 21|
 |---|:---:|:---:|:---:|
-|Morning|||||
-||||||
+|Morning|[3.06 Regularization](./3.06-lesson-regularization)|||
+||[3.08 Missing Data](./3.08-lesson-missing-data)|||
 |Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
+|Afternoon|Outcomes|||
+||[3.07 Model Workflow](./3.07-lesson-model-workflow)|||
+|Evening|[3_02 Regularization and Validation Lab](./3_02-lab-cross_validation_regularization-regression)|[4.01 Intro to Classification + Logistic Regression](./4.01-lesson-logistic-regression)|[4.02 k-Nearest Neighbours](./4.02-lesson-knn)|
+|||Flextime|[4_01 Classification Model Comparison Lab](./4_01-lab-classification-model-comparison)|
 
-#### Week 8
+
+#### Week 8 - Classification
 
 ||Sat, 13 Nov 21|Tue, 16 Nov 21|Thu, 18 Nov 21|
 |---|:---:|:---:|:---:|
-|Morning|||||
-||||||
+|Morning|[4.03 Classification Metrics I](./4.03-lesson-classification_metrics_i)|||
+||[4_01 Classification Model Comparison Lab](./4_01-lab-classification-model-comparison)|||
 |Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
+|Afternoon|[4.04 Classification Metrics II](./4.04-lesson-classification_metrics_ii)|||
+||[4_01 Classification Model Comparison Lab](./4_01-lab-classification-model-comparison)<br>**[Project 2 Introduction](./project_2)**|||
+|Evening||[4.05 Hyperparameter Tuning and Pipelines](./4.05-lesson-hyperparameters-gridsearch-and-pipelines)|[4_02 Classification Model Evaluation Lab](./4_02-lab-classification-model-evaluation)|
+|||[4_02 Classification Model Evaluation Lab](./4_02-lab-classification-model-evaluation)|Flextime|
 
-#### Week 9
+#### Week 9 - Classification, Web Scraping and APIs
 
 ||Sat, 20 Nov 21|Tue, 23 Nov 21|Thu, 25 Nov 21|
 |---|:---:|:---:|:---:|
-|Morning|||||
-||||||
+|Morning|Outcomes|||
+||[4_02 Classification Model Evaluation Lab](./4_02-lab-classification-model-evaluation)|||
 |Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
+|Afternoon|[4.06 API Integration & Consumption](./4.06-lesson-apis)|||
+||[4_02 Classification Model Evaluation Lab](./4_02-lab-classification-model-evaluation)|||
+|Evening||[5.01 Intro to HTML](./5.01-lesson-html-css)|[5.02 Web Scraping using BeautifulSoup](./5.02-lesson-webscraping)|
+|||Practical|[5_01 Scraping Lab](./5_01-lab-webscraping)|
 
-#### Week 10
+#### Week 10 - OOP and Regex
 
 ||Sat, 27 Nov 21|Tue, 30 Nov 21|Thu, 2 Dec 21|
 |---|:---:|:---:|:---:|
-|Morning|||||
-||||||
+|Morning|[5.03 Object-Oriented Programming](./5.03-lesson-object-oriented-programming)|||
+||[5_01 Scraping Lab](./5_01-lab-webscraping)|||
 |Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
+|Afternoon|[5.04 Regex](./5.04-lesson-regex)|||
+||[5_01 Scraping Lab](./5_01-lab-webscraping)|||
+|Evening||Outcomes|Flextime|
+|||Flextime|Flextime|
 
-#### Week 11
+#### Week 11 - NLP
 
 ||Sat, 4 Dec 21|Tue, 7 Dec 21|Thu, 9 Dec 21|
 |---|:---:|:---:|:---:|
-|Morning|||||
-||||||
+|Morning|Outcomes|||
+||[5.05 NLP I](./5.05-lesson-nlp-i)|||
 |Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
+|Afternoon|[5.05 NLP I](./5.05-lesson-nlp-i)|||
+||[5_02 NLP Lab](./5_02-lab-nlp-eda)|||
+|Evening||Flextime|Flextime|
+|||Flextime|Flextime|
 
-#### Week 12
+#### Week 12 - NLP
 
 ||Sat, 10 Dec 21|Tue, 14 Dec 21|Thu, 16 Dec 21|
 |---|:---:|:---:|:---:|
-|Morning|||||
-||||||
+|Morning|Flextime|||
+||[**Project 2 Presentation**](https://forms.gle/AomN5QPx9hwQyjVY8)|||
 |Lunch|Lunch!|||
-|Afternoon|||||
-||||||
-|Evening|||||
-||||||
+|Afternoon|[5.06 NLP II](./5.06-lesson-nlp-ii)|||
+||[Install AWS](./install-aws)|||
+|Evening||[5.07 Naive Bayes](./5.07-lesson-naive_bayes)|[5.08 Word Vectors](./5.08-lesson-word_vectors)|
+|||[5_02 NLP Lab](./5_02-lab-nlp-eda)|[5_02 NLP Lab](./5_02-lab-nlp-eda)|
 
-#### Week 13
+#### Week 13 - Holiday
 
 ||Sat, 18 Dec 21|Tue, 21 Dec 21|Thu, 23 Dec 21|
 |---|:---:|:---:|:---:|
-|Morning||Holiday|Holiday|Holiday|
-|||Holiday|Holiday|Holiday|
+|Morning|Outcomes|Holiday|Holiday|Holiday|
+||[6.01 CART](./6.01-lesson-decision-trees)|Holiday|Holiday|Holiday|
 |Lunch|Lunch!|Holiday|Holiday|Holiday|
-|Afternoon||Holiday|Holiday|Holiday|
-|||Holiday|Holiday|Holiday|
+|Afternoon|[6.02 Bootstrapping and Bagging](./6.02-lesson-bagging)|Holiday|Holiday|Holiday|
+||[6_01 Supervised Model Comparison Lab](./6_01-lab-supervised-learning-models)<br>**[Project 3 Introduction](./project_3)**|Holiday|Holiday|Holiday|
 |Evening||Holiday|Holiday|Holiday|
 |||Holiday|Holiday|Holiday|
 
