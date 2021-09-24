@@ -10,7 +10,7 @@ In this instructions, we will be achieving 3 objectives:
 # Setup a clean folder of class materials
 
 ### 1. Copy the git URI 
-from https://git.generalassemb.ly/DSIF-SG-1/materials
+from https://git.generalassemb.ly/DSI-SG-master-list/DSIF-SG-3
 
 <img src="assets\copy_git_uri.png" width="600"/>
 
@@ -27,7 +27,7 @@ _note: don't type ~ or $. ~ means user's root location_
 ### 3. Clone the repo
 In the folder, clone the repo
 ```
-~/original_materials $ git clone https://git.generalassemb.ly/DSIF-SG-1/materials.git .
+~/original_materials $ git clone https://git.generalassemb.ly/DSI-SG-master-list/DSIF-SG-3.git .
 ```
 
 Explanation:
@@ -37,11 +37,12 @@ Explanation:
 
 The repo is now cloned. We can check where it's linked to by typing:
 ```
+~/original_materials $ cd DSIF-SG-3
 ~/original_materials $ git remote -v
 ```
 you should see the 2 lines:<br>
-`origin  https://git.generalassemb.ly/DSIF-SG-1/materials.git (fetch)`<br>
-`origin  https://git.generalassemb.ly/DSIF-SG-1/materials.git (push)`
+`origin  https://git.generalassemb.ly/DSI-SG-master-list/DSIF-SG-3.git (fetch)`<br>
+`origin  https://git.generalassemb.ly/DSI-SG-master-list/DSIF-SG-3.git (push)`
 
 Explanation:
 - `remote` means remote server
