@@ -158,10 +158,10 @@ Repeat the above steps to create another repo called `Labs`. Ideally, the folder
 
 <img src="assets\add_collaborator.png" width="600"/>
 
-Go to `settings` tab on top, then on the left, go to `Collaborators` and add Conor and myself to the list
-- maheshkumarpaik
-- junkaitoh
-- benchee1
+Go to `settings` tab on top, then on the left, go to `Collaborators` and add Shilpa, Peter and Mark 
+- shilpa-ga
+- petermah
+- mt2395
 
 Once you have done that, fill up this form: https://forms.gle/sB3nC6qQunTsPaev8
 
