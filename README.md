@@ -43,13 +43,15 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 
 ||Sat, 25 Sep 21|Tue, 28 Sep 21|Thu, 30 Sep 21|
 |---|:---:|:---:|:---:|
-|Morning|[1.01 Datatypes](./1.01-lesson-python-intro)|||
+|Morning|Welcome!|||
+||[1.01 Datatypes](./1.01-lesson-python-intro)|||
 |Lunch|Lunch!|||
 |Afternoon|[1.01 Datatypes](./1.01-lesson-python-intro)|||
 ||[1.02 Control Flow](./1.02-lesson-python-control-flow)|||
 ||[1_01 Pokemon Lab](./1_01-lab-pokemon)|||
 |Evening||[1.03 Functions](./1.03-lesson-python-functions)|[1.04 Loops & List Comprehension](./1.04-lesson-list-comprehension)|
 |||[1_01 Pokemon Lab](./1_01-lab-pokemon)|[1_01 Pokemon Lab](./1_01-lab-pokemon)|
+
 
 #### Week 2 - Getting Started: Python for Data Science
 
