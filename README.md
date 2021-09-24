@@ -58,7 +58,6 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 ||Sat, 2 Oct 21|Tue, 5 Oct 21|Thu, 7 Oct 21|
 |---|:---:|:---:|:---:|
 |Morning|[2.01 Pandas: Intro 1](2.01-2.02-intro-to-pandas)|||
-||[2_01 Titanic EDA Lab](./2_01-lab-pandas-titanic)|||
 |Lunch|Lunch!|||
 |Afternoon|[2.02 Pandas: Intro 2](2.01-2.02-intro-to-pandas)|||
 ||[2_01 Titanic EDA Lab](./2_01-lab-pandas-titanic)|||
