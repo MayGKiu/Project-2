@@ -44,9 +44,9 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 ||Sat, 25 Sep 21|Tue, 28 Sep 21|Thu, 30 Sep 21|
 |---|:---:|:---:|:---:|
 |Morning|[1.01 Datatypes](./1.01-lesson-python-intro)|||
-||[1_01 Pokemon Lab](./1_01-lab-pokemon)|||
 |Lunch|Lunch!|||
-|Afternoon|[1.02 Control Flow](./1.02-lesson-python-control-flow)|||
+|Afternoon|[1.01 Datatypes](./1.01-lesson-python-intro)|||
+||[1.02 Control Flow](./1.02-lesson-python-control-flow)|||
 ||[1_01 Pokemon Lab](./1_01-lab-pokemon)|||
 |Evening||[1.03 Functions](./1.03-lesson-python-functions)|[1.04 Loops & List Comprehension](./1.04-lesson-list-comprehension)|
 |||[1_01 Pokemon Lab](./1_01-lab-pokemon)|[1_01 Pokemon Lab](./1_01-lab-pokemon)|
@@ -55,36 +55,36 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 
 ||Sat, 2 Oct 21|Tue, 5 Oct 21|Thu, 7 Oct 21|
 |---|:---:|:---:|:---:|
-|Morning|[1.05 Probability](1.05-lesson-intro_to_probability)|||
-||[1_02 Distributions Lab](1_02-lab-distributions)|||
+|Morning|[2.01 Pandas: Intro 1](2.01-2.02-intro-to-pandas)|||
+||[2_01 Titanic EDA Lab](./2_01-lab-pandas-titanic)|||
 |Lunch|Lunch!|||
-|Afternoon|[1.06 Discrete Distributions](1.06-lesson-discrete-distributions)|||
-||[1_02 Distributions Lab](1_02-lab-distributions)|||
-|Evening||[2.01 Pandas: Intro 1](2.01-2.02-intro-to-pandas)|[2.02 Pandas: Intro 2](2.01-2.02-intro-to-pandas)|
-|||[2_01 Titanic EDA Lab](./2_01-lab-pandas-titanic)|[2_01 Titanic EDA Lab](./2_01-lab-pandas-titanic)|
+|Afternoon|[2.02 Pandas: Intro 2](2.01-2.02-intro-to-pandas)|||
+||[2_01 Titanic EDA Lab](./2_01-lab-pandas-titanic)|||
+|Evening||[1.05 Probability](1.05-lesson-intro_to_probability)|[1.06 Discrete Distributions](1.06-lesson-discrete-distributions)|
+|||[1_02 Distributions Lab](1_02-lab-distributions)|[1_02 Distributions Lab](1_02-lab-distributions)|
 
 #### Week 3
 
 ||Sat, 9 Oct 21|Tue, 12 Oct 21|Thu, 14 Oct 21|
 |---|:---:|:---:|:---:|
-|Morning|[1.07 Continuous Distributions](1.07-lesson-continuous-distributions)|||
+|Morning|[2.03 Principles of Data Visualization](./2.03-lesson-data-visualization)|||
 ||Lab/Project Time|||
 |Lunch|Lunch!|||
-|Afternoon|[1.08 Central Limit Theorem](1.08-lesson-central-limit-theorem)|||
-||**[Project 1 Introduction](./project_1)**|||
-|Evening||[2.03 Principles of Data Visualization](./2.03-lesson-data-visualization)|[2.04 Exploratory Data Analysis (EDA)](./2.04-lesson-eda)|
-|||Lab/Project Time|Lab/Project Time|
+|Afternoon|[2.04 Exploratory Data Analysis (EDA)](./2.04-lesson-eda)|||
+||Lab/Project Time|||
+|Evening||[1.07 Continuous Distributions](1.07-lesson-continuous-distributions)|[1.08 Central Limit Theorem](1.08-lesson-central-limit-theorem)|
+|||Lab/Project Time|**[Project 1 Introduction](./project_1)**|
 
 #### Week 4
 
 ||Sat, 16 Oct 21|Tue, 19 Oct 21|Thu, 21 Oct 21|
 |---|:---:|:---:|:---:|
-|Morning|[1.09 Inference - Confidence Interval](./1.09-lesson-statistical_inference_confidence_intervals)|||
+|Morning|[2.05 Pandas Concatenation](./2.05_pandas_concat)|||
 ||Flextime|||
 |Lunch|Lunch!|||
-|Afternoon|[1.10 Inference/Hypothesis Testing](./1.10-lesson-hypothesis_testing)|||
+|Afternoon|[2.06 Advanced transformation using Pandas](./2.06-advanced-transformations-pandas)|||
 ||Lab/Project Time|||
-|Evening||[2.05 Pandas Concatenation](./2.05_pandas_concat)|[2.06 Advanced transformation using Pandas](./2.06-advanced-transformations-pandas)|
+|Evening||[1.09 Inference - Confidence Interval](./1.09-lesson-statistical_inference_confidence_intervals)|[1.10 Inference/Hypothesis Testing](./1.10-lesson-hypothesis_testing)|
 |||Flextime|Flextime|
 
 #### Week 5
