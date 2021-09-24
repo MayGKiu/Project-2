@@ -70,12 +70,12 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 ||Sat, 9 Oct 21|Tue, 12 Oct 21|Thu, 14 Oct 21|
 |---|:---:|:---:|:---:|
 |Morning|[2.03 Principles of Data Visualization](./2.03-lesson-data-visualization)|||
-||Lab/Project Time|||
+||Flextime|||
 |Lunch|Lunch!|||
 |Afternoon|[2.04 Exploratory Data Analysis (EDA)](./2.04-lesson-eda)|||
-||Lab/Project Time|||
+||Flextime|||
 |Evening||[1.07 Continuous Distributions](1.07-lesson-continuous-distributions)|[1.08 Central Limit Theorem](1.08-lesson-central-limit-theorem)|
-|||Lab/Project Time|**[Project 1 Introduction](./project_1)**|
+|||Flextime|**[Project 1 Introduction](./project_1)**|
 
 #### Week 4 - Exploratory Data Analysis
 
@@ -85,7 +85,7 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 ||Flextime|||
 |Lunch|Lunch!|||
 |Afternoon|[2.06 Advanced transformation using Pandas](./2.06-advanced-transformations-pandas)|||
-||Lab/Project Time|||
+||Flextime|||
 |Evening||[1.09 Inference - Confidence Interval](./1.09-lesson-statistical_inference_confidence_intervals)|[1.10 Inference/Hypothesis Testing](./1.10-lesson-hypothesis_testing)|
 |||Flextime|Flextime|
 
@@ -123,7 +123,8 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |Lunch|Lunch!|||
 |Afternoon|Outcomes|||
 ||[3.07 Model Workflow](./3.07-lesson-model-workflow)|||
-|Evening|[3_02 Regularization and Validation Lab](./3_02-lab-cross_validation_regularization-regression)|[4.01 Intro to Classification + Logistic Regression](./4.01-lesson-logistic-regression)|[4.02 k-Nearest Neighbours](./4.02-lesson-knn)|
+||[3_02 Regularization and Validation Lab](./3_02-lab-cross_validation_regularization-regression)|||
+|Evening||[4.01 Intro to Classification + Logistic Regression](./4.01-lesson-logistic-regression)|[4.02 k-Nearest Neighbours](./4.02-lesson-knn)|
 |||Flextime|[4_01 Classification Model Comparison Lab](./4_01-lab-classification-model-comparison)|
 
 
