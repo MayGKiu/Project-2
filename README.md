@@ -10,11 +10,11 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 * Slack: https://ga-students.slack.com/messages/@U02ECUQRD0V </br>
 
 ### Instructional Assistant: Mark Tan
-* Email: 
+* Email: mark.tan@generalassemb.ly</br>
 * Slack: https://ga-students.slack.com/messages/@U01P36JPJT0 </br>
 
 ### Instructional Assistant: Peter Mah
-* Email: 
+* Email: peter.mah@generalassemb.ly</br>
 * Slack: https://ga-students.slack.com/messages/@U01HXN542P5 </br>
 
 ### Head of Learning, APAC: Melanie Wu
