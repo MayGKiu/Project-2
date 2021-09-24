@@ -95,9 +95,10 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |Morning|[3.01 Linear Regression](./3.01-lesson-linear_regression)|||
 ||[3.02 Regression Evaluation Metrics](./3.02-regression-metrics-lesson)|||
 |Lunch|Lunch!|||
-|Afternoon|Outcomes|||
+|Afternoon|[3.02 Regression Evaluation Metrics](./3.02-regression-metrics-lesson)|||
 ||[3_01 Linear Regression Lab](./3_01-lab-regression-and-model-validation)|||
-|Evening||[3.03 Train/Test Split + Cross Validation](./3.03-lesson-cross-validation-train-test-split)|[3_01 Linear Regression Lab](./3_01-lab-regression-and-model-validation)|
+|Evening|||Outcomes|
+|||[3.03 Train/Test Split + Cross Validation](./3.03-lesson-cross-validation-train-test-split)|[3_01 Linear Regression Lab](./3_01-lab-regression-and-model-validation)|
 |||Flextime|Flextime|
 
 #### Week 6 - Regression
