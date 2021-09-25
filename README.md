@@ -70,11 +70,12 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |---|:---:|:---:|:---:|
 |Morning|[2.03 Principles of Data Visualization](./2.03-lesson-data-visualization)|||
 ||Flextime|||
+||**[Project 1 Introduction](./project_1)**|||
 |Lunch|Lunch!|||
 |Afternoon|[2.04 Exploratory Data Analysis (EDA)](./2.04-lesson-eda)|||
 ||Flextime|||
 |Evening||[1.07 Continuous Distributions](1.07-lesson-continuous-distributions)|[1.08 Central Limit Theorem](1.08-lesson-central-limit-theorem)|
-|||Flextime|**[Project 1 Introduction](./project_1)**|
+|||Flextime||
 
 #### Week 4 - Exploratory Data Analysis
 
