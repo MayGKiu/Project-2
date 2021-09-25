@@ -112,8 +112,6 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |Afternoon|[3.04 Bias-Variance Tradeoff](./3.04-lesson-bias-variance-tradeoff)|||
 ||[3_01 Linear Regression Lab](./3_01-lab-regression-and-model-validation)|||
 |Evening||[3.05 Feature Engineering](./3.05-lesson-feature-engineering)|Holiday|
-|||[3_02 Regularization and Validation Lab](./3_02-lab-cross_validation_regularization-regression)|Holiday|
-
 
 #### Week 7 - Regression and Classification
 
