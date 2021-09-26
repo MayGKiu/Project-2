@@ -125,7 +125,8 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 |Afternoon|[4.01 Intro to Classification + Logistic Regression](./4.01-lesson-logistic-regression)|||
 ||[3_02 Regularization and Validation Lab](./3_02-lab-cross_validation_regularization-regression)|||
 |Evening||Outcomes|[4.02 k-Nearest Neighbours](./4.02-lesson-knn)|
-|||Flextime|[4_01 Classification Model Comparison Lab](./4_01-lab-classification-model-comparison)|
+|||[4.01 Intro to Classification + Logistic Regression](./4.01-lesson-logistic-regression)|[4_01 Classification Model Comparison Lab](./4_01-lab-classification-model-comparison)|
+|||Flextime|Flextime|
 
 
 #### Week 8 - Classification
