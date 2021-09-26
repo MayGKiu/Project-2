@@ -110,21 +110,21 @@ Our course Slack channel: [#sg-dsif-3](https://ga-students.slack.com/channels/sg
 ||[**Project 1 Presentation**](https://forms.gle/SwUfQmnPhtdj5GfP8)|||
 |Lunch|Lunch!|||
 |Afternoon|[3.04 Bias-Variance Tradeoff](./3.04-lesson-bias-variance-tradeoff)|||
+||[3.05 Feature Engineering](./3.05-lesson-feature-engineering)|||
 ||[3_01 Linear Regression Lab](./3_01-lab-regression-and-model-validation)|||
-|Evening||[3.05 Feature Engineering](./3.05-lesson-feature-engineering)|Holiday|
-|||[3_01 Linear Regression Lab](./3_01-lab-regression-and-model-validation)||
+|Evening||[3.06 Regularization](./3.06-lesson-regularization)|Holiday|
+|||[3_01 Linear Regression Lab](./3_01-lab-regression-and-model-validation)|Holiday|
 
 #### Week 7 - Regression and Classification
 
 ||Sat, 6 Nov 21|Tue, 9 Nov 21|Thu, 11 Nov 21|
 |---|:---:|:---:|:---:|
-|Morning|[3.06 Regularization](./3.06-lesson-regularization)|||
-||[3.08 Missing Data](./3.08-lesson-missing-data)|||
-|Lunch|Lunch!|||
-|Afternoon|Outcomes|||
+|Morning|[3.08 Missing Data](./3.08-lesson-missing-data)|||
 ||[3.07 Model Workflow](./3.07-lesson-model-workflow)|||
+|Lunch|Lunch!|||
+|Afternoon|[4.01 Intro to Classification + Logistic Regression](./4.01-lesson-logistic-regression)|||
 ||[3_02 Regularization and Validation Lab](./3_02-lab-cross_validation_regularization-regression)|||
-|Evening||[4.01 Intro to Classification + Logistic Regression](./4.01-lesson-logistic-regression)|[4.02 k-Nearest Neighbours](./4.02-lesson-knn)|
+|Evening||Outcomes|[4.02 k-Nearest Neighbours](./4.02-lesson-knn)|
 |||Flextime|[4_01 Classification Model Comparison Lab](./4_01-lab-classification-model-comparison)|
 
 
